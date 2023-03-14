@@ -92,3 +92,5 @@ else /* if the coordinates do not form a point or a line we continue */
         }
     }
 }
+
+/* https://github.com/nahuelrmaury/triangle-task_team-international */
