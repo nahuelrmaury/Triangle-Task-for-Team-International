@@ -5,4 +5,4 @@ This repository contains my solution to the Triangle Task, a common coding chall
 The task is to write test cases for a function that takes three integer arguments representing the lengths of the sides of a triangle and returns the type of triangle (equilateral, isosceles, or scalene). Additionally, the function should handle invalid inputs and return an error message or code.
 
 ## Solution
-In this repository, you will find my solution to the Triangle Task. I have implemented test cases using a testing framework (e.g., Selenium, JUnit, TestNG, etc.) to thoroughly test the triangle classification function. The tests cover various scenarios, including valid triangles, invalid inputs, and edge cases.
+In this repository, you will find my solution to the Triangle Task. The tests cover various scenarios, including valid triangles, invalid inputs, and edge cases.
